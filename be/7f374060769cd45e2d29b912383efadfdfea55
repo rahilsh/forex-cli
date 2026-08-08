@@ -1,0 +1,26 @@
+.github/workflows/ci.yml
+  h_ae44bf4236b009 1-24
+README.md
+  h_ae44bf4236b009 3-9,13-14,16,25-56,59-64,70,73-74
+eslint.config.js
+  h_ae44bf4236b009 1-21
+package-lock.json
+  h_ae44bf4236b009 1-1323
+package.json
+  h_ae44bf4236b009 4-5,9-35,37-41
+src/index.js
+  h_ae44bf4236b009 3-5,7,11,15,17-18,20-21,23-25,27-28,31-45,48-80,82-91,94-113,116-160
+test/index.test.js
+  h_ae44bf4236b009 1-119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "be7f374060769cd45e2d29b912383efadfdfea55",
+  "prompts": {},
+  "humans": {
+    "h_ae44bf4236b009": {
+      "author": "Rahil Shaikh <rahilrshk@gmail.com>"
+    }
+  }
+}
